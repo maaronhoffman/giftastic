@@ -1,0 +1,53 @@
+body {
+
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/small-crackle-bright.png");
+   }
+
+   #userInput {
+       
+
+    -webkit-box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+    box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+    z-index: 1;
+
+
+   }
+
+   #inputGroup-sizing-default {
+
+
+    -webkit-box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+    box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+    z-index: 2;
+
+
+   }
+
+   #inputSubmit {
+
+
+    -webkit-box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+    box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+z-index: 1;
+
+
+
+   }
+
+   #buttons{
+
+    -webkit-box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+    box-shadow: -2px 38px 65px 0px rgba(0,0,0,0.25);
+z-index: 1;
+    background-color: white;
+    border-bottom: 2px solid grey;
+
+   
+ 
+
+   }
